@@ -1,8 +1,10 @@
 package com.example.examplemod;
 
 import com.example.examplemod.core.init.BlockInit;
+import com.example.examplemod.core.init.FeatureInit;
 import com.example.examplemod.core.init.ItemInit;
 import com.example.examplemod.core.itemgroup.TutorialModItemGroup;
+import net.minecraftforge.eventbus.api.EventPriority;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -31,6 +33,7 @@ public class TutorialMod {
 		BlockInit.BLOCKS.register(bus);
 		ItemInit.ITEMS.register(bus);
 
+		MinecraftForge.EVENT_BUS.addListener(EventPriority.HIGH, FeatureInit::addOres);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

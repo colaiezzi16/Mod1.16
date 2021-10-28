@@ -15,6 +15,7 @@ public class TutorialModItemGroup extends ItemGroup {
 
 	@Override
 	public ItemStack createIcon() {
+
 		return new ItemStack(ItemInit.EXAMPLE_ITEM.get());
 	}
 
