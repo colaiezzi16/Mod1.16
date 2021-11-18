@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "B B",
+    "B B"
+  ],
+  "key": {
+    "B": {
+      "item": "tutorialmod:example_item"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:example_boots",
+    "count": 1
+  }
+}
