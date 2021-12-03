@@ -13,7 +13,7 @@ public class FeatureInit {
 
 	public static void addOres(final BiomeLoadingEvent event) {
 		addOre(event, OreFeatureConfig.FillerBlockType.BASE_STONE_OVERWORLD,
-				BlockInit.EXAMLPE_BLOCK.get().getDefaultState(), 4, 0, 60, 20);
+				BlockInit.EXAMLPE_BLOCK.get().getDefaultState(), 6, 0, 60, 20);
 	}
 
 	public static void addOre(final BiomeLoadingEvent event, RuleTest rule, BlockState state, int veinSize,
