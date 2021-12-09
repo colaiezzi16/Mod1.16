@@ -9,9 +9,11 @@ import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.util.SoundEvent;
 import net.minecraft.util.SoundEvents;
 
+//this class creates a custom armor material by overiding a prexisting minecraft armor allowing us to change the armor's values
+
 public enum CustomArmorMaterial implements IArmorMaterial {
-	EXAMPLE_ARMOR("example", 10, new int[] { 4, 7, 9, 4 }, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 4f, 0.2f,
-			() -> Ingredient.fromItems(ItemInit.EXAMPLE_ITEM.get()));
+	BESKAR_ARMOR("example", 10, new int[] { 4, 7, 9, 4 }, 17, SoundEvents.ITEM_ARMOR_EQUIP_GENERIC, 4f, 0.2f,
+			() -> Ingredient.fromItems(ItemInit.BESKAR_INGOT.get()));
 
 	private static final int[] baseDurability = { 128, 144, 160, 112 };
 	private final String name;

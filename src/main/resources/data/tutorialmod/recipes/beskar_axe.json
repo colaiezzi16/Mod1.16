@@ -10,11 +10,11 @@
       "item": "minecraft:stick"
     },
     "B": {
-      "item": "tutorialmod:example_item"
+      "item": "tutorialmod:beskar_ingot"
     }
   },
   "result": {
-    "item": "tutorialmod:example_axe",
+    "item": "tutorialmod:beskar_axe",
     "count": 1
   }
 }

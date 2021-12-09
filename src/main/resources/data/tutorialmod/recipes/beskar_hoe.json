@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " B ",
-    " B ",
+    "BB ",
+    " S ",
     " S "
   ],
   "key": {
@@ -10,11 +10,11 @@
       "item": "minecraft:stick"
     },
     "B": {
-      "item": "tutorialmod:example_item"
+      "item": "tutorialmod:beskar_ingot"
     }
   },
   "result": {
-    "item": "tutorialmod:example_sword",
+    "item": "tutorialmod:beskar_hoe",
     "count": 1
   }
 }

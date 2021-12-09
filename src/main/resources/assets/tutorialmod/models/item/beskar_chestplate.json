@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "tutorialmod:items/example_helmet"
+		"layer0": "tutorialmod:items/beskar_chestplate"
 	}
 }

@@ -6,7 +6,7 @@
 			"entries": [
 				{
 					"type": "minecraft:item",
-					"name": "tutorialmod:example_block"
+					"name": "tutorialmod:beskar_ore"
 				}
 			]
 		}

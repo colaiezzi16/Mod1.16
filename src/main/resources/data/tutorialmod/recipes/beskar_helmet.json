@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "B B",
+    "   ",
     "BBB",
-    "BBB"
+    "B B"
   ],
   "key": {
     "B": {
-      "item": "tutorialmod:example_item"
+      "item": "tutorialmod:beskar_ingot"
     }
   },
   "result": {
-    "item": "tutorialmod:example_chestplate",
+    "item": "tutorialmod:beskar_helmet",
     "count": 1
   }
 }

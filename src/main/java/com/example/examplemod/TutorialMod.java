@@ -20,6 +20,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber.Bus;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 
+//This class establishes the mod that all of teh items and blocks created are initialized and registered
 @Mod("tutorialmod")
 @Mod.EventBusSubscriber(modid = TutorialMod.MOD_ID, bus = Bus.MOD)
 public class TutorialMod {

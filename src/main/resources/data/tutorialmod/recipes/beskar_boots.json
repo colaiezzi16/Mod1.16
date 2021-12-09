@@ -7,11 +7,11 @@
   ],
   "key": {
     "B": {
-      "item": "tutorialmod:example_item"
+      "item": "tutorialmod:beskar_ingot"
     }
   },
   "result": {
-    "item": "tutorialmod:example_boots",
+    "item": "tutorialmod:beskar_boots",
     "count": 1
   }
 }

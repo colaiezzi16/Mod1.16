@@ -1,9 +1,9 @@
 {
 	"type": "minecraft:smelting",
 	"ingredient": {
-		"item": "tutorialmod:example_block"
+		"item": "tutorialmod:beskar_ore"
 	},
-	"result": "tutorialmod:example_item",
+	"result": "tutorialmod:beskar_ingot",
 	"experience": 0.6,
 	"cookingtime": 100
 }

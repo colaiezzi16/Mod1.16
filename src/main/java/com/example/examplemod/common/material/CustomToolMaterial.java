@@ -6,9 +6,11 @@ import com.example.examplemod.core.init.ItemInit;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.crafting.Ingredient;
 
+//this class creates a custom tool material by overiding a prexisting minecraft tool allowing us to change the tools values
+
 public enum CustomToolMaterial implements IItemTier {
 
-	EXAMPLE_TOOL(4, 4000, 15f, 2f, 17, () -> Ingredient.fromItems(ItemInit.EXAMPLE_ITEM.get()));
+	BESKAR_TOOL(4, 4000, 15f, 2f, 17, () -> Ingredient.fromItems(ItemInit.BESKAR_INGOT.get()));
 
 	private final int harvestLevel;
 	private final int maxUses;

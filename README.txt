@@ -1,3 +1,12 @@
+This mod was created for education purposes and has no intention of distribution
+--------------------------------------------------------------------------------
+This mod adds "Beskar" a metal found in the Star Wars universe
+into minecraft as a natural recourse that occurs in the world.
+
+Hope you enjoy :)
+
+*note* below are instructions and README for forge installation
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------

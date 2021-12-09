@@ -8,10 +8,11 @@ import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 
+// init class for blocks created(just beskar_ore provides block name and properties)
 public class BlockInit {
 	public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS,
 			TutorialMod.MOD_ID);
 
-	public static final RegistryObject<Block> EXAMPLE_BLOCK = BLOCKS.register("example_block",
+	public static final RegistryObject<Block> BESKAR_ORE = BLOCKS.register("beskar_ore",
 					() -> new Block(AbstractBlock.Properties.from(Blocks.IRON_ORE)));
 }

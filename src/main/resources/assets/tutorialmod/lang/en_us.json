@@ -1,22 +1,22 @@
 {
-	"item.tutorialmod.example_item": "Example Item",
-	"block.tutorialmod.example_block": "Example Block",
+	"item.tutorialmod.beskar_ingot": "Beskar Ingot",
+	"block.tutorialmod.beskar_ore": "Beskar Ore",
 	
 	"itemGroup.tutorial_mod": "Tutorial Mod Items",
-	"item.tutorialmod.example_item": "Example Item",
+	"item.tutorialmod.beskar_ingot": "Beskar Ingot",
 
-	"item.tutorialmod.example_sword": "Example Sword",
-	"item.tutorialmod.example_axe": "Example Axe",
-	"item.tutorialmod.example_pickaxe": "Example Pickaxe",
-	"item.tutorialmod.example_shovel": "Example Shovel",
-	"item.tutorialmod.example_hoe": "Example Leggings",
+	"item.tutorialmod.beskar_sword": "Beskar Sword",
+	"item.tutorialmod.beskar_axe": "Beskar Axe",
+	"item.tutorialmod.beskar_pickaxe": "Beskar Pickaxe",
+	"item.tutorialmod.beskar_shovel": "Beskar Shovel",
+	"item.tutorialmod.beskar_hoe": "Beskar Hoe",
 
-	"item.tutorialmod.example_helmet": "Example Helmet",
-	"item.tutorialmod.example_chestplate": "Example Chestplate",
-	"item.tutorialmod.example_leggings": "Example Leggings",
-	"item.tutorialmod.example_boots": "Example Boots",
+	"item.tutorialmod.beskar_helmet": "Beskar Helmet",
+	"item.tutorialmod.beskar_chestplate": "Beskar Chestplate",
+	"item.tutorialmod.beskar_leggings": "Beskar Leggings",
+	"item.tutorialmod.beskar_boots": "Beskar Boots",
 
-	"block.tutorialmod.example_block": "Example Block",
+	"block.tutorialmod.beskar_ore": "Beskar Ore",
 	"block.tutorialmod.quarry": "Quarry",
 	"block.tutorialmod.display_case": "Display Case",
 	"itemGroup.tutorial_mod": "Tutorial Mod Items"
