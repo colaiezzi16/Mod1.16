@@ -6,8 +6,11 @@ modId="tutorialmod"
 version="${file.jarVersion}"
 displayName="Tutorial Mod"
 logoFile="examplemod.png"
-credits="Made by an idiot"
+credits="built by christian colaiezzi with use of CY4's modding youtube
+https://www.youtube.com/playlist?list=PLlbkaeFHn13HQlW5Pb7Gf-xLJoAlfVbNU"
 description='''
+This mod is to add "Beskar" metal into minecraft as a natural resource that can be smelted and crafted with.
+
 I sure hope that this works
 '''
 
